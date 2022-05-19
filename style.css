@@ -99,6 +99,8 @@ img {
   bottom: -15%;
   right: 5%;
   width: 3rem;
+
+  cursor: pointer;
 }
 
 .text {
